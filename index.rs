@@ -2,3 +2,5 @@ bep20 usdt, erc20 usdt
 0x3aDdbe36f3b823Fdd2487c1109736cCF9794F458
 solana usdc, usdt, sol
 ByGTDhnBLfpB2zq1GE5MwhLKzbPEU7qiRCRh6aj2FkCa
+trc20
+TPGWqNgqRxeCwvkJfiQVpWnGGMJpMcXWh1
